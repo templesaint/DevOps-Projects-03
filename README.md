@@ -1,4 +1,5 @@
 # DevOps-Projects-03
+<<<<<<< HEAD
 
 #MERN STACK TO-DO WEB APPLICATION
 
@@ -292,3 +293,6 @@ GitHub Profile ← add your GitHub profile URL here
 Other Projects in This Series
 # Project Key Skills
 01
+=======
+MERN WEB STACK PROJECT
+>>>>>>> 9c98c147b4853e2f54b5f7b22cfd51194676600c
