@@ -1,4 +1,4 @@
-# DevOps-Projects-03
+# DevOps-Projects-3
 <<<<<<< HEAD
 
 #MERN STACK TO-DO WEB APPLICATION
