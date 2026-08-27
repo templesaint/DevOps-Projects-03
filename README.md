@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# DevOps-Projects-3
-<<<<<<< HEAD
-=======
 # AWS MERN To-Do Full-Stack Application
->>>>>>> b351ee2 (Polish MERN full-stack documentation and organize screenshots)
 
 ## Project Overview
 
